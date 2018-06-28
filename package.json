@@ -1,0 +1,12 @@
+{
+  "name": "blackdown",
+  "version": "0.0.1",
+  "description": "Blackdown tools for Financial data processing",
+  "main": "index.js",
+  "author": "Tom Whitbread",
+  "license": "MIT",
+  "dependencies": {
+    "gdax": "^0.6.0",
+    "request": "^2.85.0"
+  }
+}
